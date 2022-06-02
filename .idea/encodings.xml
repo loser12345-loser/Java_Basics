@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/a_输出与输入/a_输入与输出.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/p_文件/b_字节流/z.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/p_文件/e_字节缓冲流/z_copy.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/p_文件/g_字符转换流/b_InputStreamReader_转换_字符读取流.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/p_文件/g_字符转换流/c_转换文件编码.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/p_文件/h_序列化流/z_序列化.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/p_文件/i_打印流/z_PrintStream.txt" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -11,7 +11,7 @@ public class a_数组的遍历 {
             data[i]=in.nextInt();
         }
         for (int i : data) {
-            System.out.print(i+" ");
+            System.out.print(i+"   ,");
         }
 
     }
